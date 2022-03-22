@@ -26,3 +26,10 @@ Para ignorar el archivo **ignorado.txt**, escribiríamos:
 #ignorar el archivo "ignorado.txt"
 
 ignorado.txt
+
+### Punto 3
+
+**Revise los archivos subidos en su repositorio de github. ¿Que archivos
+ve?¿Cuál cree que no hace falta que esté?**
+
+Luego del _commit_ se subió una carpeta llamada _.vs_, la cual no creo sea necesario que esté.
