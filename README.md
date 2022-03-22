@@ -23,6 +23,6 @@ Estaremos evitando que el sistema de control de versiones procese todos los arch
 Con el **#** adjuntamos comentarios en el archivo.
 Para ignorar el archivo **ignorado.txt**, escribiríamos:
 
-#ignorar el archivo ·ignorado.txt"
+#ignorar el archivo "ignorado.txt"
 
 ignorado.txt
